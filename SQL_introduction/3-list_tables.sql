@@ -1,0 +1,2 @@
+-- # SHow Tables
+SHOW TABLES;
